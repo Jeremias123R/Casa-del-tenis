@@ -1,37 +1,40 @@
 # La Casa del Tenis
 
-Sitio web para una tienda especializada en productos de tenis.
+Sitio web para una tienda deportiva especializada en productos relacionados con el tenis, con catálogo y contacto directo.
 
-## Descripción
+**Ver demo:** https://jeremias123r.github.io/Casa-del-tenis/
 
-La Casa del Tenis es mi primer proyecto de portafolio desarrollado desde cero como práctica de desarrollo frontend.
+## Qué hace
 
-El objetivo fue crear una página sencilla, responsive y funcional para presentar productos y facilitar el contacto con el cliente.
+- Presenta la tienda y su propuesta.
+- Catálogo de productos relacionados con el tenis.
+- Presentación de raquetas, pelotas y accesorios.
+- Diseño adaptado a dispositivos móviles.
+- Navegación sencilla entre las diferentes secciones.
+- Botón de contacto directo mediante WhatsApp.
+- Interacción mediante JavaScript.
+- Diseño visual enfocado en una tienda deportiva.
 
-## Tecnologías utilizadas
+## Tecnologías
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+HTML, CSS y JavaScript · GitHub Pages
 
-## Funcionalidades
+## Datos y privacidad
 
-- Diseño responsive
-- Sección de productos
-- Imágenes organizadas por carpetas
-- Navegación dentro de la página
-- Desplazamiento suave hacia productos
-- Botón de contacto mediante WhatsApp
+El proyecto es una demostración de una página web para una tienda deportiva.
 
-## Estructura
+No recopila ni almacena datos personales de clientes.
 
-```text
-CASA DEL TENIS/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    ├── raqueta.jpg
-    ├── pelota.jpg
-    └── accesorios.jpg
+El contacto se realiza directamente mediante WhatsApp.
+
+## Pendiente
+
+- Incorporar un catálogo dinámico.
+- Añadir carrito de compras.
+- Conectar los productos con una base de datos.
+- Incorporar sistema de pedidos.
+- Añadir panel administrativo para gestionar productos.
+
+## Autor
+
+Jeremías Robles Ochoa
